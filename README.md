@@ -45,4 +45,4 @@ Homepage: https://mdm-bypass-toolkit.softnation.xyz
 ---
 
 ## A note on usage
-> Use responsibly. This page is an independent listing and is not affiliated with the original vendor.      
+> Use responsibly. This page is an independent listing and is not affiliated with the original vendor.       
